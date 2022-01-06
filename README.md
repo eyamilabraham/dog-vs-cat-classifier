@@ -45,3 +45,9 @@
 - You can click on the "Change camera" button to use the front or rear camera of your phone. Just focus on the camera at a dog or cat, and the prediction will appear below. It's not the future sorter either so if it does not sort perfect, oops.
 
 ![alt text](https://github.com/eyamilabraham/dog-vs-cat-classifier/blob/main/screenShot%20CNN%20Model%20on%20TensorBoard.jpg)
+
+![alt text](https://github.com/eyamilabraham/dog-vs-cat-classifier/blob/main/screenshotApp.jpg)
+
+![alt text](https://github.com/eyamilabraham/dog-vs-cat-classifier/blob/main/cat-classifier.jpeg)
+
+![alt text](https://github.com/eyamilabraham/dog-vs-cat-classifier/blob/main/dog-classifier.jpeg)
